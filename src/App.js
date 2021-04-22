@@ -9,7 +9,7 @@ function App() {
         <p>
           Edited <code>src/App.js</code> and save to no reload.
         </p>
-        <p>This is a demonstration for response of pull request</p>
+        <p>This is a demonstration for response of pull request and lets try it</p>
         <a
           className="App-link"
           href="https://reactjs.org"
