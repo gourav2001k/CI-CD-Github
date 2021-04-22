@@ -6,9 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edited <code>src/App.js</code> and save to no reload.
-        </p>
+        <p>This is a demonstration of CI/CD PipeLine using GitHub Actions</p>
         <a
           className="App-link"
           href="https://reactjs.org"
